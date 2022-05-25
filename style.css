@@ -1,0 +1,61 @@
+header {
+  height: 60px;
+  width: 100%;
+  background-color: #2E3A46;
+}
+nav {
+  height: 100%;
+  width: 100%;
+  
+}
+nav img {
+  height: 100%;
+  padding: 10px 20px;
+}
+main{
+    height: calc(100vh - 60px);
+    width: 100%;
+    background-color: #1E2D3B;
+}
+.container {
+  width: 70%;
+  margin: 0 auto;
+ 
+
+}
+
+.card-container{
+    width: calc(100% / 5);
+    background-color: #2E3A46;
+    margin: 20px;
+}
+.card-container h5{
+    color: white;
+
+    font-size: 17px;
+}
+.card-container p {
+    color:grey;
+
+}
+.row img{
+    background-size: cover;
+    width: 100%;
+height: 180px;
+padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.debug {
+  border: 1px solid black;
+}
