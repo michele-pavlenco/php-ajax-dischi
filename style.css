@@ -16,18 +16,18 @@ main{
     height: calc(100vh - 60px);
     width: 100%;
     background-color: #1E2D3B;
+
 }
 .container {
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
  
 
 }
-
 .card-container{
-    width: calc(100% / 5);
+    width: calc((100% - 200px)/ 5);
     background-color: #2E3A46;
-    margin: 20px;
+    margin: 0px 20px 20px 20px;
 }
 .card-container h5{
     color: white;
@@ -58,4 +58,5 @@ padding: 10px;
 
 .debug {
   border: 1px solid black;
+
 }
